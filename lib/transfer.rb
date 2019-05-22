@@ -7,7 +7,7 @@ class Transfer
      @transfer =transfer
      @sender = sender
      @receiver = receiver
-     @transfert_amount =transfert_amount
+     @amount =amount
   
   end
 end
